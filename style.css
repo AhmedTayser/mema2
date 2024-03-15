@@ -1,0 +1,21 @@
+.img {
+    border: 2px solid;
+    width: 100%;
+  
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+.p{
+   
+    font-size: 3cm;
+}
+.h1 {
+    font-size: 3rem;
+    text-transform: lowercase;
+}
